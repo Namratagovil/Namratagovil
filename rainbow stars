@@ -1,0 +1,18 @@
+import turtle
+
+rainbow = ["red", "orange", "yellow", "green", "blue", "purple"]
+
+# Write whatever code you want here!
+amy = turtle.Turtle()
+amy.width(4)
+for rainbow in rainbow:
+    amy.color(rainbow)
+    for star in [1,2,3,4,5]:
+        amy.forward(50)
+        amy.right(145)
+    amy.penup()
+    amy.right(60)
+    amy.back(100)
+    amy.pendown()
+   
+
