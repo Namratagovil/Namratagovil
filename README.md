@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Namrataagarwal
-- 👀 I’m interested in AU generated applications
+- 👀 I’m interested in AI generated applications
 - 🌱 I’m currently working as a UX/UI designer
 - 💞️ I’m looking to collaborate on UX/UI projects
 
